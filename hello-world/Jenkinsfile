@@ -4,6 +4,7 @@ pipeline {
         stage('Static Analysis') {
             steps {
                 echo 'Changfdsfasded it fdsfa dagain fadsf abruh' 
+                echo 'Hii....from Preston'
             }
         }
         stage('Compile') {
